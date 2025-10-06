@@ -1,0 +1,12 @@
+# Node (React)
+node_modules
+dist
+
+# Laravel (PHP)
+vendor 
+.env
+
+# General
+.DS_Store
+.idea
+.vscode
